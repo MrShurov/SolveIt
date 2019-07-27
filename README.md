@@ -1,2 +1,0 @@
-# solveIt
-Created with CodeSandbox

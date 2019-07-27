@@ -1,0 +1,19 @@
+.properFraction {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.answerBlock {
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+.properFractionsBlock {
+  width: 400px;
+  height: 100px;
+  border: 1px solid black;
+}
